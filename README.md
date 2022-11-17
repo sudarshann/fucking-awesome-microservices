@@ -277,16 +277,16 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### PHP
 
-- 🌎 [API Platform](api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
-- 🌎 [Ecotone](docs.ecotone.tech/) - Framework based on architectural principles of DDD, CQRS and Event Sourcing that provides building blocks to create scalable and extensible applications. 
-- 🌎 [Fat-Free](fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
+- 🌎 [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
+- 🌎 [Ecotone](https://docs.ecotone.tech/) - Framework based on architectural principles of DDD, CQRS and Event Sourcing that provides building blocks to create scalable and extensible applications. 
+- 🌎 [Fat-Free](https://fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
 - <b><code>&nbsp;&nbsp;2483⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;397🍴</code></b> [Flight](https://github.com/mikecao/flight)) - An extensible micro-framework.
 - <b><code>&nbsp;&nbsp;4869⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;993🍴</code></b> [Hyperf](https://github.com/hyperf/hyperf)) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
-- 🌎 [Lumen](lumen.laravel.com/) - Stunningly fast micro-framework.
-- 🌎 [Phalcon](phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
+- 🌎 [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
+- 🌎 [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
 - [Slim](http://www.slimframework.com/) - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [Swoft](https://github.com/swoft-cloud/swoft/)) - PHP microservices coroutine framework for building high-performance web systems, APIs, middleware, and basic services.
-- 🌎 [Symfony](symfony.com/) - Micro-framework based on the Symfony components.
+- 🌎 [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;81⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8🍴</code></b> [Upswarm](https://github.com/Zizaco/upswarm)) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
 
 ### Python
